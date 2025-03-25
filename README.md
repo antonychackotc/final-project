@@ -37,7 +37,7 @@ This repository contains my work on two major projects:
 
 **Key Takeaways:**
 - **BERT is superior to TF-IDF & Word2Vec** due to pretraining.
-- **Deep learning isn't always better than ML**—ML is preferable when deep learning struggles with gradient/loss control.
+- **Deep learning isn't always better than ML**—ML is preferable when deep learning use for controlling a loss function and prevent overfit early stop epoch based on dropout layers.
 - **Real-time data drastically improves NLP model performance.**
 
 ## Final Learnings
